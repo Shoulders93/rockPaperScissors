@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hljOzPbwuF/nIzRs9QnfXPmabDxUHwDZZ2EkPfWW+MvGaE+Dju+00z3KWx1YysP98qjziGWE8MKtIMEvKS0bLg==",
+  "success": true,
+  "projectFilePath": "D:\\TestProjects\\RockPaperScissors\\RockPaperScissors\\RockPaperScissors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\korya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
